@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sanya
-- 🌱 I’m currently learning web development, AI ML and DSA
+- 🌱 I’m currently learning web development, AI/ML and DSA
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me sanyakansal07@gmail.com
 - 😄 Pronouns: she/her
