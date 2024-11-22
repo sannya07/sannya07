@@ -11,8 +11,9 @@
     TechStack
     <img width="40px" height="40px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
 </h1>
-[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,react,cpp)](https://skillicons.dev)
 
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,react,cpp)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,html,css,tailwind,mysql,postman)](https://skillicons.dev)
 
 
