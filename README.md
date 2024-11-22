@@ -14,10 +14,9 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,javascript,react,cpp)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,html,css,tailwind,mysql,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,html,css,tailwind,mysql,postman,linux,mongodb)](https://skillicons.dev)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 sannya07/sannya07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
