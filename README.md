@@ -1,9 +1,19 @@
-- 👋 Hi, I’m Sanya
+<h1 align="center">
+    Hello, I'm Sanya
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">
+</h1>
+
 - 🌱 I’m currently learning web development, AI/ML and DSA
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking forward to collaborate on projects
 - 📫 How to reach me sanyakansal07@gmail.com
 
+<h1 align="center">
+    TechStack
+    <img width="40px" height="40px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
+</h1>
+[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,react,cpp)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,html,css,tailwind,mysql,postman)](https://skillicons.dev)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
