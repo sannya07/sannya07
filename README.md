@@ -3,7 +3,7 @@
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">
 </h1>
 
-- 🌱 I’m currently learning web development, AI/ML and DSA
+- 🌱 I’m currently learning web development and DSA
 - 💞️ I’m looking forward to collaborate on projects
 - 📫 How to reach me sanyakansal07@gmail.com
 
